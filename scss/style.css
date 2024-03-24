@@ -19,11 +19,11 @@ body {
   max-width: 1920px;
 }
 .event_position.main-bg {
-  background-image: url("./innisfree_double11_event_2023/img_bg_1.jpg");
+  background-image: url("../innisfree_double11_event_2023/img_bg_1.jpg");
   height: 5440px;
 }
 .event_position.shop-bg {
-  background-image: url("./innisfree_double11_event_2023/img_bg_2.jpg");
+  background-image: url("../innisfree_double11_event_2023/img_bg_2.jpg");
   height: 7911px;
 }
 .event_position .swiper-container {
@@ -43,7 +43,7 @@ body {
 }
 .event_position a,
 .event_position .button {
-  cursor: url("./innisfree_double11_event_2023/cursor.png"), pointer;
+  cursor: url("../innisfree_double11_event_2023/cursor.png"), pointer;
 }
 .event_position .fw-r {
   font-weight: 400;
