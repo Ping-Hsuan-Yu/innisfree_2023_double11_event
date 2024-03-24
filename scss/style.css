@@ -468,7 +468,7 @@ body {
   position: absolute;
   width: 43px;
   height: 36px;
-  background-image: url("./innisfree_double11_event_2023/check_1.png");
+  background-image: url("../innisfree_double11_event_2023/check_1.png");
   background-size: cover;
   background-repeat: no-repeat;
   top: 84px;
@@ -478,7 +478,7 @@ body {
   position: absolute;
   width: 48px;
   height: 43px;
-  background-image: url("./innisfree_double11_event_2023/check_2.png");
+  background-image: url("../innisfree_double11_event_2023/check_2.png");
   background-size: cover;
   background-repeat: no-repeat;
   top: 80px;
@@ -1040,7 +1040,7 @@ body {
     position: relative;
   }
   .event_position.main-bg, .event_position.shop-bg {
-    background-image: url("./innisfree_double11_event_2023/img_bg_m_1.jpg");
+    background-image: url("../innisfree_double11_event_2023/img_bg_m_1.jpg");
     background-size: contain;
     height: initial;
   }
@@ -1053,13 +1053,13 @@ body {
     margin-top: 20px;
   }
   .event_position .event-bg.main-bg {
-    background-image: url("./innisfree_double11_event_2023/img_bg_m_2.jpg");
+    background-image: url("../innisfree_double11_event_2023/img_bg_m_2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
   }
   .event_position .event-bg.shop-bg {
-    background-image: url("./innisfree_double11_event_2023/img_bg_m_3.jpg");
+    background-image: url("../innisfree_double11_event_2023/img_bg_m_3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
